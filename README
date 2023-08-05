@@ -1,0 +1,26 @@
+-5.4.99 patched linux kernel for Playstation 4 Pro consoles with Baikal (some Belize) Southbridge and MT7668 chip for internal Bluetooth capability
+
+-Users who are looking to add their own drivers and compile this kernel source will also need to apply the bluetooth firmware drivers to your linux distro, this only applies to those looking to compile the source, the compiled bzImage can then be used accross a variety of available Playstation 4 Linux distros with internal Bluetooth capability
+
+-An example of where/how to locate the same firmware drivers also used by Android hardware: https://github.com/khadas/android_hardware_wifi_mtk_drivers_mt7668/tree/Nougat
+
+-Download Link to bzImage compiled for Playstation 4 consoles with Southbridge Baikal and internal Bluetooth capability: https://mega.nz/file/bdkmEYxL#b9Mvtu6QVXUu-FW5fuh-qlYQbVx6TusnH8x-pmHPcP8 
+
+Linux kernel
+============
+
+There are several guides for kernel developers and users. These guides can
+be rendered in a number of formats, like HTML and PDF. Please read
+Documentation/admin-guide/README.rst first.
+
+In order to build the documentation, use ``make htmldocs`` or
+``make pdfdocs``.  The formatted documentation can also be read online at:
+
+    https://www.kernel.org/doc/html/latest/
+
+There are various text files in the Documentation/ subdirectory,
+several of them using the Restructured Text markup notation.
+
+Please read the Documentation/process/changes.rst file, as it contains the
+requirements for building and running the kernel, and information about
+the problems which may result by upgrading your kernel.
