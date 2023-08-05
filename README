@@ -4,6 +4,8 @@
 
 -An example of where/how to locate the same firmware drivers also used by Android hardware: https://github.com/khadas/android_hardware_wifi_mtk_drivers_mt7668/tree/Nougat
 
+-Commits will be pushed here when full wifi capability is successfull
+
 -Download Link to bzImage compiled for Playstation 4 pro consoles with Southbridge Baikal and internal Bluetooth capability: https://mega.nz/file/bdkmEYxL#b9Mvtu6QVXUu-FW5fuh-qlYQbVx6TusnH8x-pmHPcP8 
 
 Linux kernel
